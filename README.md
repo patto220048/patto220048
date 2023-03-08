@@ -9,3 +9,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=patto220048&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31hvtbflzkpf3aikwji4fcvvgcge&count={count})
