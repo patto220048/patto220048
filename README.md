@@ -12,7 +12,7 @@ My name is PHAT. I'm a Web Developer
  - :man_student: I'm currently majoring IT in Japan 
  - :muscle: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
  - 🌈 My hobby is sleeping and i also like coding
- - :zap: In my free time, I learn new languages and technology updates on articles and I also learn English
+ - :zap: In my free time, I learn new languages and technology updates on articles
  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.facebook.com/Hoonvn)
 
 ---
